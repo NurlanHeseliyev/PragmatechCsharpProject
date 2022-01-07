@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Testtt\Testtt\bin\Debug\netcoreapp3.1\Testtt.exe
+C:\Users\user\source\repos\Testtt\Testtt\bin\Debug\netcoreapp3.1\Testtt.deps.json
+C:\Users\user\source\repos\Testtt\Testtt\bin\Debug\netcoreapp3.1\Testtt.runtimeconfig.json
+C:\Users\user\source\repos\Testtt\Testtt\bin\Debug\netcoreapp3.1\Testtt.runtimeconfig.dev.json
+C:\Users\user\source\repos\Testtt\Testtt\bin\Debug\netcoreapp3.1\Testtt.dll
+C:\Users\user\source\repos\Testtt\Testtt\bin\Debug\netcoreapp3.1\Testtt.pdb
+C:\Users\user\source\repos\Testtt\Testtt\obj\Debug\netcoreapp3.1\Testtt.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Testtt\Testtt\obj\Debug\netcoreapp3.1\Testtt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Testtt\Testtt\obj\Debug\netcoreapp3.1\Testtt.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Testtt\Testtt\obj\Debug\netcoreapp3.1\Testtt.AssemblyInfo.cs
+C:\Users\user\source\repos\Testtt\Testtt\obj\Debug\netcoreapp3.1\Testtt.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Testtt\Testtt\obj\Debug\netcoreapp3.1\Testtt.dll
+C:\Users\user\source\repos\Testtt\Testtt\obj\Debug\netcoreapp3.1\Testtt.pdb
+C:\Users\user\source\repos\Testtt\Testtt\obj\Debug\netcoreapp3.1\Testtt.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Testtt\NewProje\bin\Debug\NewProje.exe.config
+C:\Users\user\source\repos\Testtt\NewProje\bin\Debug\NewProje.exe
+C:\Users\user\source\repos\Testtt\NewProje\bin\Debug\NewProje.pdb
+C:\Users\user\source\repos\Testtt\NewProje\obj\Debug\NewProje.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Testtt\NewProje\obj\Debug\NewProje.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Testtt\NewProje\obj\Debug\NewProje.exe
+C:\Users\user\source\repos\Testtt\NewProje\obj\Debug\NewProje.pdb
