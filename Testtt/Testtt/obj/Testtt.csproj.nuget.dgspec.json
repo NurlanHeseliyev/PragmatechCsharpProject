@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Testtt\\Testtt\\Testtt.csproj": {}
+    "C:\\Users\\user\\Desktop\\PragmatechCsharpProject\\PragmatechCsharpProject\\Testtt\\Testtt\\Testtt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Testtt\\Testtt\\Testtt.csproj": {
+    "C:\\Users\\user\\Desktop\\PragmatechCsharpProject\\PragmatechCsharpProject\\Testtt\\Testtt\\Testtt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Testtt\\Testtt\\Testtt.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\PragmatechCsharpProject\\PragmatechCsharpProject\\Testtt\\Testtt\\Testtt.csproj",
         "projectName": "Testtt",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Testtt\\Testtt\\Testtt.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\PragmatechCsharpProject\\PragmatechCsharpProject\\Testtt\\Testtt\\Testtt.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Testtt\\Testtt\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\PragmatechCsharpProject\\PragmatechCsharpProject\\Testtt\\Testtt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

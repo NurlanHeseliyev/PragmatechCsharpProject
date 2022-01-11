@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pdjaHDr5HRbm4QBNh5WSwqIHp6fXG0sIaMmviDRT5O1zqz5JmpiTmpy4fAeAloEYlp+E4UTBULbgvsI6zb/eCg==",
+  "dgSpecHash": "k4NRCg57hZ5fwOUrAW5O+npypKTIs3ghP/JV3uyGwFIv3TxtrZOded1p+VZkFSgvshnT+hQ3GsYoLe/LfYLWLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\Testtt\\Testtt\\Testtt.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\PragmatechCsharpProject\\PragmatechCsharpProject\\Testtt\\Testtt\\Testtt.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],
