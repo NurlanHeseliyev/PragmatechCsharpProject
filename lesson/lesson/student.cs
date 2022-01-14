@@ -4,18 +4,24 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lesson
+namespace ClassStudent
 {
-    public class student
+    class student
     {
-        public string Lastname;
-        public string Name;
-        public byte years;
-        public byte qrup;
-
-        public student(string name)
+        public string fullname;
+        public string GrupNo;
+        public int AGE;
+        public student(string Fullname, string grupNo,int age)
         {
-            Name = name;
+            fullname = Fullname;
+            GrupNo = grupNo;
+            AGE= age;
+        }
+        public void GetBirthYear(student student)
+        {
+            int year = DateTime.Now.Year - student.AGE;
+            Console.WriteLine(year);
+            Console.ReadLine();
         }
     }
 }
