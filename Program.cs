@@ -16,14 +16,14 @@ namespace Csharp
             //Console.WriteLine(x + "after");
             //arry
             //int[] number = new int[5];
-            int[] number = { 1, 2, 3, 4, 5 };
-            number[5] = 75;
-            foreach (var item in number)
-            {
-                Console.WriteLine(item);
-            }
+        //    int[] number = { 1, 2, 3, 4, 5 };
+        //    number[5] = 75;
+        //    foreach (var item in number)
+        //    {
+        //        Console.WriteLine(item);
+        //    }
 
-        }
+        //}
 
 
         #region  /////lesson 2 home work

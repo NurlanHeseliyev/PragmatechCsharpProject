@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\lesseon 9\lesseon 9\bin\Debug\lesseon 9.exe.config
+C:\Users\user\source\repos\lesseon 9\lesseon 9\bin\Debug\lesseon 9.exe
+C:\Users\user\source\repos\lesseon 9\lesseon 9\bin\Debug\lesseon 9.pdb
+C:\Users\user\source\repos\lesseon 9\lesseon 9\obj\Debug\lesseon 9.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\lesseon 9\lesseon 9\obj\Debug\lesseon 9.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lesseon 9\lesseon 9\obj\Debug\lesseon 9.exe
+C:\Users\user\source\repos\lesseon 9\lesseon 9\obj\Debug\lesseon 9.pdb
