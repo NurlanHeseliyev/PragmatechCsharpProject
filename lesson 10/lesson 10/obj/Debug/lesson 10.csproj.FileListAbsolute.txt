@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\lesson 10\lesson 10\bin\Debug\lesson 10.exe.config
+C:\Users\user\source\repos\lesson 10\lesson 10\bin\Debug\lesson 10.exe
+C:\Users\user\source\repos\lesson 10\lesson 10\bin\Debug\lesson 10.pdb
+C:\Users\user\source\repos\lesson 10\lesson 10\obj\Debug\lesson 10.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\lesson 10\lesson 10\obj\Debug\lesson 10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lesson 10\lesson 10\obj\Debug\lesson 10.exe
+C:\Users\user\source\repos\lesson 10\lesson 10\obj\Debug\lesson 10.pdb
